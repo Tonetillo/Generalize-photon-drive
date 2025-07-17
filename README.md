@@ -1,4 +1,4 @@
 # Generalize-photon-drive
-Code for the perturbation theory around multifrequency, subharmonic driving of two level system.
+This repository contains code to calculate the necessary matrix elements up to any order in perturbation theory to model the multifrequency, subharmonic driving of a two level system.
 
-This project is for my Bachelor's thesis at TUM.
+This project is part my Bachelor's thesis at TUM.
